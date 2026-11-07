@@ -16,4 +16,5 @@ because the zip include main directionary and 2 tar.gz arhive pack and not just 
 superbuild.sh is a simple script with 2 commands: gradle to compile, apksign to sign apk ('android' is my keygen's passcode, but it is juat a demo, a starter, so whatever about code :)
 
 3.   a file named as 'PowerSwitch.apk' is gonna generated in directionary. copy to your phone or AVD to use.
-Nov 7 Sat 10:05 2026
+
+-Nov 7 Sat 10:05 2026
